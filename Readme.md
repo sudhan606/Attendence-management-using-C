@@ -24,4 +24,4 @@ The **BCT CD Attendance System** is a command-line-based application for managin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bct-cd-attendance-system.git
+   git clone https://github.com/sudhan606/Attendence-management-using-C.git
