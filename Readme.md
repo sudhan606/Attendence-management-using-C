@@ -24,4 +24,27 @@ The **BCT CD Attendance System** is a command-line-based application for managin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sudhan606/Attendence-management-using-C.git
+   git clone https://github.com/sudhan606/Attendence-management-using-C
+   ```
+
+2. Compile the code:
+
+   ```bash
+   gcc main.c -o attendance_system
+   ```
+
+3. Run the program:
+
+   ```bash
+   ./attendance_system
+   ```
+
+## Usage
+
+1. Run the program.
+2. Students enter their unique PIN to mark attendance.
+3. Admins use predefined credentials to manage students and view attendance records.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
